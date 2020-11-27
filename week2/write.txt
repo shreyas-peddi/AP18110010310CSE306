@@ -1,0 +1,17 @@
+ int : keyword 
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ a : identifier 
+8: number
+;
+ acc : identifier 
+9: number 
+ if : keyword 
+(
+ a : identifier 
+9: number
+)
+}

@@ -1,0 +1,7 @@
+int main()
+{
+    int a=8;
+    /*hello*/
+    acc=9
+    if(a=9)
+}
